@@ -2,3 +2,7 @@ backend:
   name: github
   repo: thoughtbot/apprenticeio # Path to your Github repository
   branch: netlify-experiment # Branch to update
+
+
+media_folder: "source/images/uploads"
+public_folder: "/images/uploads"
