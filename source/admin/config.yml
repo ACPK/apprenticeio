@@ -1,0 +1,4 @@
+backend:
+  name: github
+  repo: thougthbot/apprenticeio # Path to your Github repository
+  branch: netlify-experiment # Branch to update
