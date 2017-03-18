@@ -12,5 +12,5 @@ collections:
     label: Pages
     files:
       - file: source/about.md
-      label: "About page"
-      name: "About us"
+        label: "About page"
+        name: "About us"
