@@ -3,5 +3,14 @@ backend:
   branch: netlify-experiment
   name: github
   repo: thoughtbot/apprenticeio
+
 media_folder: source/images/uploads
 public_folder: /images/uploads
+
+collections:
+  - name: pages
+    label: Pages
+    files:
+      - file: source/about.md
+      label: "About page"
+      name: "About us"
